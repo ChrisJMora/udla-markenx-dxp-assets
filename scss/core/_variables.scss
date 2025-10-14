@@ -1,0 +1,57 @@
+// ============================================================================
+// MARKENX VARIABLES
+// ============================================================================
+
+// Primary colors
+$primary-color-white: #FFFFFF;
+$primary-color-black: #222222;
+$primary-color-red: #8B0E2A;
+$primary-hover-red: #FFF0F3;
+
+// Gray colors
+$gray-color-light: #EEEEEE;
+$gray-color-light-20: #E9E9E9;
+$gray-color-light-40: #C4C4C4;
+
+$gray-color-dark: #717171;
+$gray-color-dark-80: #5D5D5D;
+$gray-color-dark-100: #1E1E1E;
+
+// Shadows
+$shadow-color: rgba(34, 34, 34, 0.3);
+
+// ============================================================================
+// FONT-FACE
+// ============================================================================
+
+// Bebas Neue
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('../assets/fonts/BebasNeue-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Barlow Regular
+@font-face {
+  font-family: 'Barlow';
+  src: url('../assets/fonts/Barlow/Barlow-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Barlow Bold
+@font-face {
+  font-family: 'Barlow';
+  src: url('../assets/fonts/Barlow/Barlow-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+// ============================================================================
+// TYPOGRAPHY
+// ============================================================================
+
+$font-h1: 'Bebas Neue', sans-serif;
+$font-normal-regular: 'Barlow', sans-serif;
+$font-normal-bold: 'Barlow', sans-serif;
