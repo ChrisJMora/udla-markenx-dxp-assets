@@ -7,6 +7,17 @@
     "scss",
     "assets"
   ],
-  "keywords": ["scss", "theme", "markex"],
-  "license": "MIT"
+  "keywords": [
+    "scss",
+    "theme",
+    "markex"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisJMora/udla-markenx-dxp-assets.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
